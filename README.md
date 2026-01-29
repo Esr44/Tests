@@ -24,10 +24,3 @@
 
 ---
 
-## 🚀 طريقة التشغيل (How to Run)
-
-للتشغيل على جهازك المحلي:
-
-1. قم باستنساخ المستودع:
-   ```bash
-   git clone [https://github.com/YourUsername/LibrarianUST.git](https://github.com/YourUsername/LibrarianUST.git)
